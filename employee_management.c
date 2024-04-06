@@ -1,4 +1,4 @@
-9#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 struct employee {
   char name[50];
